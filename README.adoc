@@ -1,4 +1,4 @@
-= Starter
+= Java Vertx Project for CRUD operations
 
 image:https://img.shields.io/badge/vert.x-4.1.5-purple.svg[link="https://vertx.io"]
 
